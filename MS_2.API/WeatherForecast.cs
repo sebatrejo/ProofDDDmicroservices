@@ -1,6 +1,6 @@
 using System;
 
-namespace MS_1.API
+namespace MS_2.API
 {
     public class WeatherForecast
     {
